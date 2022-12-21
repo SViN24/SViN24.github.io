@@ -2,6 +2,7 @@ baseURL = 'https://svin24.github.io/'
 languageCode = 'en-us'
 title = 'SViN Web'
 theme = "digital-garden-hugo-theme"
+canonifyURLs = true
 
 [menu]
 [[menu.main]]
@@ -25,9 +26,9 @@ theme = "digital-garden-hugo-theme"
   [[menu.social]]
   name = 'GitHub'
   url = 'https://github.com/SViN24'
-  weight = 2
+  weight = 1
 
   [[menu.social]]
   name = 'Instagram'
   url = 'https://www.instagram.com/svinny24/'
-  weight = 3
+  weight = 1
