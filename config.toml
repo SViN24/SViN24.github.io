@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'SViN Web'
 theme = "digital-garden-hugo-theme"
 canonifyURLs = true
+publishDir = "docs"
 
 [menu]
 [[menu.main]]
